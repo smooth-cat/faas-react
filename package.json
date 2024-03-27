@@ -1,0 +1,25 @@
+{
+  "name": "faas-react",
+  "version": "0.0.3",
+  "description": "a project combine react and nodejs, can use function as service in tsx files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 0",
+    "build": "echo 0",
+    "pub": "node scripts/publish.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smooth-cat/faas-react.git"
+  },
+  "keywords": [
+    "faas",
+    "react"
+  ],
+  "author": "smooth-cat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smooth-cat/faas-react/issues"
+  },
+  "homepage": "https://github.com/smooth-cat/faas-react#readme"
+}
